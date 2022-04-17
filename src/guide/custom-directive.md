@@ -59,7 +59,7 @@ directives: {
 
 - `updated`：在包含组件的 VNode **及其子组件的 VNode** 更新后调用。
 
-- `beforeUnmount`：在卸载绑定元素的父组件之前调用
+- `beforeUnmount`：在卸载绑定元素的父组件之前调用。
 
 - `unmounted`：当指令与元素解除绑定且父组件已卸载时，只调用一次。
 
